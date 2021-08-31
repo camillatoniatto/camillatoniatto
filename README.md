@@ -1,7 +1,10 @@
  ## Bem vindos 🌈 <img align="right" height="140" width="140" src="https://thumbs.gfycat.com/AdorableIdolizedGrayling.webp">
  
  ◽ 🍂 Eu me chamo Camilla, tenho 26 anos;  
- ◽ ☕ Cursando técnico em desenvolvimento de sistemas;
+ ◽ 🎓 Cursando técnico em desenvolvimento de sistemas;
+ <br>◽ 🎮 Gosto de lolzinho e joguinhos para relaxar;
+ <br>◽ ☕ No tempo livre gosto de assistir filmes/séries, jogar ou procurar algo novo para aprender;
+ <br>◽ 🐱‍💻 Sinta-se à vontade para conversar comigo! 
  
 
  
