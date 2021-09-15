@@ -2,7 +2,7 @@
  
  ◽ 🍂 Eu me chamo Camilla, tenho 26 anos;  
  ◽ 🎓 Cursando técnico em desenvolvimento de sistemas;
- <br>◽ 🎮 Adoro lolzinho e joguinhos para relaxar;
+ <br>◽ 🎮 Jogo lolzinho e outros joguinhos para relaxar;
  <br>◽ ☕ No tempo livre gosto de assistir filmes/séries, jogar ou procurar algo novo para aprender;
  <br>◽ 🐱‍💻 Sinta-se à vontade para conversar comigo! 
  
