@@ -1,4 +1,4 @@
- ## Bem vindos 🌈 <a href="https://github.com/camillatoniatto"><img align="right" alt="animezim" height="175" width="175" src="https://i.ibb.co/M7xCQ4n/download20210902162558.png"></a>
+ ## Bem vindos 🌈 <a href="https://github.com/camillatoniatto"><img align="right" alt="animezim" height="165" width="165" src="https://i.ibb.co/M7xCQ4n/download20210902162558.png"></a>
 
  
  ◽ 🍂 Eu me chamo Camilla, tenho 26 anos;  
