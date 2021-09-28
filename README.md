@@ -1,4 +1,5 @@
- ## Bem vindos 🌈 <a href="https://github.com/camillatoniatto"><img align="right" height="140" width="140" src="https://thumbs.gfycat.com/AdorableIdolizedGrayling.webp"></a>
+ ## Bem vindos 🌈 <a href="https://github.com/camillatoniatto"><img align="right" alt="animezim" height="175" width="175" src="https://i.ibb.co/M7xCQ4n/download20210902162558.png"></a>
+
  
  ◽ 🍂 Eu me chamo Camilla, tenho 26 anos;  
  ◽ 🎓 Cursando técnico em desenvolvimento de sistemas;
@@ -15,7 +16,7 @@
 </div>
  
 <div style="display: inline_block"><br>
-<img align="right" alt="gifzinho" height="160" width="160" src="https://media3.giphy.com/media/aTxKKLseNTmhz80tmb/giphy.gif"> 
+<img align="right" height="140" width="140" src="https://thumbs.gfycat.com/AdorableIdolizedGrayling.webp">
 </div>
   
  ## Contato 💻
