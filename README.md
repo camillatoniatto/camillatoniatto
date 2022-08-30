@@ -1,8 +1,9 @@
  ## Bem vindos 🌈 <a href="https://github.com/camillatoniatto"><img align="right" alt="animezim" height="165" width="165" src="https://i.ibb.co/M7xCQ4n/download20210902162558.png"></a>
 
  
- ◽ 🍂 Eu me chamo Camilla, tenho 26 anos;  
+ ◽ 🍂 Eu me chamo Camilla, tenho 27 anos;  
  ◽ 🎓 Cursando técnico em desenvolvimento de sistemas;
+ <br>◽ 🖥️ Backend developer C# ASP.NET;
  <br>◽ 🎮 Jogo lolzinho e outros joguinhos para relaxar;
  <br>◽ ☕ No tempo livre gosto de assistir filmes/séries, jogar ou procurar algo novo para aprender;
  <br>◽ 🐱‍💻 !! 
