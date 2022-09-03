@@ -4,10 +4,9 @@
  ◽ 🍂 Eu me chamo Camilla, tenho 27 anos;  
  ◽ 🎓 Cursando técnico em desenvolvimento de sistemas;
  <br>◽ 🖥️ Backend developer C# ASP.NET;
+ <br>◽ 📚 Estudando VueJs;
  <br>◽ 🎮 Jogo lolzinho e outros joguinhos para relaxar;
- <br>◽ ☕ No tempo livre gosto de assistir filmes/séries, jogar ou procurar algo novo para aprender;
- <br>◽ 🐱‍💻 !! 
- 
+ <br>◽ ☕ No tempo livre gosto de assistir filmes/séries; 
 
  
 <div>
