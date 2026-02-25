@@ -7,6 +7,6 @@
 <a href="https://open.spotify.com/user/12179089481?si=5901b8fed0514a87" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://steamcommunity.com/profiles/76561198089571565" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
  
-![Snake animation](https://github.com/camillatoniatto/camillatoniatto/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/camillatoniatto/camillatoniatto/blob/output/github-contribution-grid-snake.svg)
 </div>
   
